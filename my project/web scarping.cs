@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data.Entity;
 using System.ComponentModel.DataAnnotations;
 using HtmlAgilityPack;
+using oxoeseMovieScraper;
 
 /* description
 1- 
@@ -60,7 +61,14 @@ namespace ef_test4
         static void Main(string[] args)
         {
             Mecontext db = new Mecontext();
+            //
+            getMoviesInfoFromImdb getmovie = new getMoviesInfoFromImdb();
+            getmovie.test1("death note");
 
+
+
+
+            //
             Console.WriteLine("test6 28 1");
 
 

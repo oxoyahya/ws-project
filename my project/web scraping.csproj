@@ -44,6 +44,10 @@
     <Reference Include="HtmlAgilityPack">
       <HintPath>..\..\..\HtmlAgilityPack.dll</HintPath>
     </Reference>
+    <Reference Include="oxoeseMovieScraper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\oxoeseMovieScraper\bin\Debug\oxoeseMovieScraper.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
