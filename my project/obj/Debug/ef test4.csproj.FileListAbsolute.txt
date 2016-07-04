@@ -1,0 +1,42 @@
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\ef test4.exe.config
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\EntityFramework.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\EntityFramework.SqlServer.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\EntityFramework.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\bin\Debug\EntityFramework.SqlServer.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\obj\Debug\ef test4.csprojResolveAssemblyReference.cache
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\obj\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4\obj\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\ef test4.exe.config
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\obj\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\obj\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\EntityFramework.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\EntityFramework.SqlServer.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\EntityFramework.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\EntityFramework.SqlServer.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\obj\Debug\ef test4.csprojResolveAssemblyReference.cache
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\ef test4 - Copy (2)\bin\Debug\HtmlAgilityPack.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\ef test4.exe.config
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\obj\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\obj\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\EntityFramework.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\EntityFramework.SqlServer.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\HtmlAgilityPack.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\EntityFramework.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\bin\Debug\EntityFramework.SqlServer.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\entity framework\entity framework project\6 22 EF test1\obj\Debug\ef test4.csprojResolveAssemblyReference.cache
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\ef test4.exe.config
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\obj\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\obj\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\EntityFramework.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\EntityFramework.SqlServer.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\EntityFramework.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\bin\Debug\EntityFramework.SqlServer.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\6 22 EF test1\obj\Debug\ef test4.csprojResolveAssemblyReference.cache

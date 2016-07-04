@@ -1,0 +1,6 @@
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\my class library\oxoeseMovieScraper\bin\Debug\oxoeseMovieScraper.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\my class library\oxoeseMovieScraper\bin\Debug\oxoeseMovieScraper.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\my class library\oxoeseMovieScraper\obj\Debug\oxoeseMovieScraper.csprojResolveAssemblyReference.cache
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\my class library\oxoeseMovieScraper\obj\Debug\oxoeseMovieScraper.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\my class library\oxoeseMovieScraper\obj\Debug\oxoeseMovieScraper.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\my class library\oxoeseMovieScraper\bin\Debug\HtmlAgilityPack.dll

@@ -1,0 +1,13 @@
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\ef test4.exe.config
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\obj\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\obj\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\ef test4.exe
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\ef test4.pdb
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\EntityFramework.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\EntityFramework.SqlServer.dll
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\EntityFramework.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\bin\Debug\EntityFramework.SqlServer.xml
+H:\professional\PROGRAMMING FULL\WER PORJECTS\c# codes\WS6 28\obj\Debug\WS 628.csprojResolveAssemblyReference.cache
+H:\professional\programming full\oxoese projects\c# codes\WS6 28\bin\Debug\ef test4.exe.config
+H:\professional\programming full\oxoese projects\c# codes\WS6 28\obj\Debug\ef test4.exe
+H:\professional\programming full\oxoese projects\c# codes\WS6 28\obj\Debug\ef test4.pdb
