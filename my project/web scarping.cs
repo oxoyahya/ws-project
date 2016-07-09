@@ -63,7 +63,7 @@ namespace ef_test4
             Mecontext db = new Mecontext();
             //
             getMoviesInfoFromImdb getmovie = new getMoviesInfoFromImdb();
-            getmovie.test1("death note");
+            getmovie.test1("Rosebud");
 
 
 
