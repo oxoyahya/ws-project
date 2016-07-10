@@ -14,48 +14,78 @@ namespace oxoeseMovieScraper
     
              
         SearchedMovieName = searchedMovieName;
-            
+            int a = 0;
             string v1_url = "http://www.imdb.com/find?ref_=nv_sr_fn&q=" + SearchedMovieName+ "&s=tt&ref_=fn_al_tt_mr";
-        Console.WriteLine(v1_url);
+       // Console.WriteLine(v1_url);
             HtmlWeb v1_htmlweb = new HtmlWeb();
-        HtmlAgilityPack.HtmlDocument v1_doc = v1_htmlweb.Load(v1_url);
-            //HtmlNodeCollection nodesGetSeriesName = v1_doc.DocumentNode.SelectNodes("//td[@class='result_text']");
-            //foreach (var nodeGetSeriesName in nodesGetSeriesName)
-            //{
-            //    string seriesName = nodeGetSeriesName.ChildNodes[0].InnerText;
-
-
-
-            //    Console.WriteLine(seriesName);
-            //    Console.WriteLine("parent            ");
-
-
-            //}
+        HtmlDocument v1_doc = v1_htmlweb.Load(v1_url);
+         
             string seriesName = "The Simpsons";
+            
             foreach (HtmlNode node in v1_doc.DocumentNode.SelectNodes("//td[@class='result_text']"))
             {
+                  //getting episode name
+                  string a2 = node.ChildNodes[2].InnerText;
+                  string searchWithinThis = a2;
+                  string searchForThis = "TV Episode";
+                  int firstCharacter = searchWithinThis.IndexOf(searchForThis);
+                
                 foreach (HtmlNode node2 in node.SelectNodes(".//a[@href]"))
                 {
-                    v1_doc.DocumentNode.SelectNodes("//td[@class='result_text']/small");
-                    foreach (HtmlNode node3 in node.SelectNodes(".//a[@href]"))
+
+                    HtmlAttribute v1_getSeries = node2.Attributes["href"];
+                    string a1 = node2.ChildNodes[0].InnerText;
+               
+                  //  Console.WriteLine("the movie name" + a1);
+                  //  Console.WriteLine("the addition  " + a2);
+                    //selecting series name 
+                    HtmlNodeCollection dd = v1_doc.DocumentNode.SelectNodes("//td[@class='result_text']/small");
+                  
+                    if (firstCharacter !=-1)
                     {
-                        string imdbSeriesName = node3.ChildNodes[0].InnerText;
-                        if (imdbSeriesName == seriesName )
-                        {
-                            Console.WriteLine("this is it :  " + seriesName);
-                            string attributeValue = node2.GetAttributeValue("href", "");
-                            Console.WriteLine("this is the "  + attributeValue);
-                            break;
+                      //  Console.WriteLine("the movie link test   " + v1_getSeries.Value);
+                        v1_doc.DocumentNode.SelectNodes("//td[@class='result_text']/small");
+                       
+                        foreach (HtmlNode node3 in node.SelectNodes(".//a[@href]"))
+                        {//getting series name under episode name 
+
+                            string imdbSeriesName = node3.ChildNodes[0].InnerText;
+                           // Console.WriteLine("this is the series Name:  " + imdbSeriesName);
+                            if (imdbSeriesName == seriesName)
+                            {
+                                Console.WriteLine("this is the series Name:  " + seriesName);
+                                string attributeValue = node2.GetAttributeValue("href", "");
+                                Console.WriteLine("this is the " + attributeValue);
+                                a = 1;
+                                break;
+                                
+
+                            }
+                           
+
+
                         }
-                       
-                       
+                        if (a == 1)
+                        {
+                            break;
+
+                        }
                     }
-                
+                    else
+                    {
+
+                    }
+
                     //    string attributeValue = node2.GetAttributeValue("href", "");
                     //     Console.WriteLine(attributeValue);
-                    
+                   // break;
                 }
-               
+                if (a == 1)
+                {
+                    break;
+
+                }
+                //  break;
             }
                     /*
                             HtmlNodeCollection v1_nodes = v1_doc.DocumentNode.SelectNodes("//td[@class='result_text']/a[@href]");

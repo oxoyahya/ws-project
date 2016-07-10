@@ -61,14 +61,15 @@ namespace ef_test4
         static void Main(string[] args)
         {
             Mecontext db = new Mecontext();
+           
+
             //
             getMoviesInfoFromImdb getmovie = new getMoviesInfoFromImdb();
-            getmovie.test1("Rosebud");
+            getmovie.test1("Labor Pains");
 
 
 
-
-            //
+            // 
             Console.WriteLine("test6 28 1");
 
 
@@ -112,7 +113,9 @@ namespace ef_test4
                             var b = new video() { VideoTitle = v_nodeEpisode.ChildNodes[0].InnerHtml, VideoUrl = v_urlVideoData };
                             var a = db.videos.Add(b);
                             videoList.Add(a);
+                            
                             //
+                            
 
 
                             HtmlWeb v_htmlwebVideoData = new HtmlWeb();
